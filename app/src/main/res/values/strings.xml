@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Balance</string>
+    <string name="enter">ادخل الطول الخاص بك</string>
+    <string name="height">الطول  </string>
+    <string name="enter_weight">ادخل الوزن</string>
+    <string name="weight">الوزن</string>
+    <string name="result">عرض النتيجة</string>
+    <string name="meter">متر</string>
+    <string name="kello">كغم</string>
+    <string name="perfect">الوزن المثالي</string>
+    <string name="result_fat">النتيجة</string>
+    <string name="weight_tv">الوزن</string>
+    <string name="perfect_w">الوزن المثالي لك </string>
+    <string name="kello_sembol">كغم</string>
+    <string name="advice">نصائح لك</string>
+    <string name="good">مثالي</string>
+    <string name="fat">سمين</string>
+    <string name="veryfat">سمين جداً</string>
+    <string name="thin">نحيف</string>
+    <string name="verthin">نحيف جداً</string>
+    <string name="your_tips">نصائح لك</string>
+    <string name="tip_first_name">تناول سلة الفواكه الطازجة</string>
+    <string name="tip_first_des">معظم الفواكه كالتفاح مثلاً تحتاج وقتاً لتناولها وهضمها، مما يعني أنَّ سكر الفركتوز يصل إلى الكبد بشكلٍ بطيء، لذا فإنَّ الجسم يكون متكيفاً بشكلٍ جيّدٍ مع عمليّة التمثيل الغذائي لسكر الفركتوز، كما أنَّه من الصعب استهلاك كميات عالية جداً من هذا السكر عن طريق تناول الفواكه، وإنَّما يكون ذلك طريق استهلاك السكر المكرّر، وشراب الذرة عالي الفركتوز. تساعد على الشعور بالامتلاء، وتقليل الميل إلى تناول المزيد من الطعام بعد تناولها. تحتوي على كميات عالية من الألياف، وخاصةً الألياف القابلة للذوبان التي تساعد على خفض مستويات الكوليسترول، وإبطاء امتصاص الكربوهيدرات، وزيادة الشعور بالشب</string>
+    <string name="tip_second_name">تمارين رياضية لتخسيس الخصر  ومناطق الارداف</string>
+    <string name="tip_second_des">تُساعد هذه التمارين على تقليل حجم الخَصر من الجهة الخلفيّة، كتمارين تقوية عضلات البطن المائلة، والعضلات الناصبة للفقار (بالإنجليزيّة: Erector Spinae muscles)، والمُمتدَّة على طول العمود الفقريّ؛ حيث تُساعد تقوية هذه العضلات على تحديد جَوانب الجسم، ومن هذه</string>
+    <string name="tip_third_name">تناول الشاي الأخضر</string>
+    <string name="tip_third_des">تناول الشاي الأخضر</string>
+    <string name="tip_forth_name">تناول الخبز الأسود</string>
+    <string name="tip_forth_des">استبدال الخبز الأبيض بالخبز الأسود لأنه يؤدي إلى شعور الإنسان بالشبع لغناه بالألياف التي تسهل عملية الهضم وتحافظ ع الوزن</string>
+</resources>
